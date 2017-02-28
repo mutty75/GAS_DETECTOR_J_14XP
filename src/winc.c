@@ -32,7 +32,7 @@
 #define MAIN_WIFI_M2M_SERVER_PORT         (1114)
 #define MAIN_WIFI_M2M_HTTP_PORT           (80)
 
-#define MAIN_WLAN_DEVICE_NAME			  "WIFIDIRECT"
+#define MAIN_WLAN_DEVICE_NAME			  "WIFIDIRECT_TEST"
 #define MAIN_WLAN_CHANNEL (0) /* < Channel number */
 
 #else
